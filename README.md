@@ -21,5 +21,7 @@ Link: (https://github.com/ridwans99/homework3-chat-fcm)
 2. Sender and receiver difference
 
 ## Screenshots
-![Screenshot 1](https://github.com/mobcom-group/homework3-submission/blob/main/ss1.png)
-![Screenshot 2](https://github.com/mobcom-group/homework3-submission/blob/main/ss2.png)
+![Screenshot 1](https://github.com/ridwans99/homework3-chat-fcm/blob/main/1.PNG)
+![Screenshot 2](https://github.com/ridwans99/homework3-chat-fcm/blob/main/2.PNG)
+![Screenshot 3](https://github.com/ridwans99/homework3-chat-fcm/blob/main/3.PNG)
+![Screenshot 4](https://github.com/ridwans99/homework3-chat-fcm/blob/main/4.PNG)
