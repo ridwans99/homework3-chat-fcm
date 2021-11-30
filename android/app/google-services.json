@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164594915272",
+    "project_id": "flutter-notification-message",
+    "storage_bucket": "flutter-notification-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164594915272:android:e967f0cae926873f4e52fd",
+        "android_client_info": {
+          "package_name": "com.example.fcmchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164594915272-0dq31ae7o6c49uvav0gd08jas6ed92iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvMEpqbXRCytL1GsWOY5VK4Vklek8hWaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164594915272-0dq31ae7o6c49uvav0gd08jas6ed92iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
