@@ -4,7 +4,7 @@
 2. Resa Fajar Sukma (1313618029)
 
 ## App Debug APK
-[AppDebugAPK](https://github.com/mobcom-group/homework3-submission/blob/main/app-debug.apk)
+[AppDebugAPK](https://github.com/ridwans99/homework3-chat-fcm/blob/main/app-debug.apk)
 
 ## Source Code
 ### Server Source Code
